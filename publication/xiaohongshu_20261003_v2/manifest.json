@@ -6,7 +6,7 @@
     1600
   ],
   "new_predictions_run": false,
-  "status": "local_only_not_posted",
+  "status": "report_assets_created_social_post_not_published",
   "sources": {
     "results/snapshots.csv": "09763b7711b36196a4efe97004d2ab8a382cced13e297e057999391c9bfb0f1d",
     "results/daily_w50.csv": "525a4e131ddc52844f76f337bd880259169f8fd2ff81563d9be4db3adc31ec30",
@@ -21,5 +21,6 @@
     "02_percentiles.png",
     "03_topology.png",
     "04_results.png"
-  ]
+  ],
+  "code_repository": "https://github.com/Adkid-Zephyr/market-topology"
 }

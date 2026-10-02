@@ -10,5 +10,7 @@
     1200,
     1600
   ],
-  "github_ci": "pending"
+  "github_ci": "passed",
+  "github_ci_run": "https://github.com/Adkid-Zephyr/market-topology/actions/runs/37079984773",
+  "github_ci_code_commit": "945a65fa1d2e54a7f82f0fc6bfafefe7b0794f1b"
 }

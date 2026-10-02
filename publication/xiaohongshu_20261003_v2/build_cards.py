@@ -30,6 +30,8 @@ DAILY = {w: pd.read_csv(ROOT/f'results/daily_w{w}.csv', index_col=0, parse_dates
 METRICS = pd.read_csv(ROOT/'topology_cv_results/metrics.csv')
 CERT = json.loads((ROOT/'explainer/certificates.json').read_text())
 TEXTS = []
+if set(SNAP.loc[SNAP.label == "current", "date"]) != {"2026-09-28"}:
+    raise ValueError("These cards describe the 2026-09-28 snapshot. Create a new dated report for newer inputs.")
 
 def text(ax, x, y, s, size=30, color=INK, weight='normal', ha='left', **kw):
     t=ax.text(x,y,s,fontsize=size*72/DPI,color=color,fontweight=weight,
