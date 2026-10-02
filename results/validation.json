@@ -1,0 +1,61 @@
+{
+  "status": "passed",
+  "raw_source_hashes_checked": 10,
+  "sample_checks": [
+    {
+      "window": 50,
+      "date": "1999-12-31",
+      "checked": "metrics, prefix recomputation, past-only percentile"
+    },
+    {
+      "window": 50,
+      "date": "2000-03-09",
+      "checked": "metrics, prefix recomputation, past-only percentile"
+    },
+    {
+      "window": 50,
+      "date": "2008-09-12",
+      "checked": "metrics, prefix recomputation, past-only percentile"
+    },
+    {
+      "window": 50,
+      "date": "2020-02-18",
+      "checked": "metrics, prefix recomputation, past-only percentile"
+    },
+    {
+      "window": 50,
+      "date": "2026-09-28",
+      "checked": "metrics, prefix recomputation, past-only percentile"
+    },
+    {
+      "window": 100,
+      "date": "1999-12-31",
+      "checked": "metrics, prefix recomputation, past-only percentile"
+    },
+    {
+      "window": 100,
+      "date": "2000-03-09",
+      "checked": "metrics, prefix recomputation, past-only percentile"
+    },
+    {
+      "window": 100,
+      "date": "2008-09-12",
+      "checked": "metrics, prefix recomputation, past-only percentile"
+    },
+    {
+      "window": 100,
+      "date": "2020-02-18",
+      "checked": "metrics, prefix recomputation, past-only percentile"
+    },
+    {
+      "window": 100,
+      "date": "2026-09-28",
+      "checked": "metrics, prefix recomputation, past-only percentile"
+    }
+  ],
+  "notes": [
+    "VIX differs between Yahoo and FRED on 2026-02-06; VIX is excluded from core computation and final charts.",
+    "Current 2026-09-28 stock closes are from Yahoo. FRED cross-check reaches 2026-09-25.",
+    "The publisher figure's undocumented preprocessing prevents a point-for-point replication claim."
+  ]
+}

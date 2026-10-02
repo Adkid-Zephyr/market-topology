@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "all_train_label_ends_before_forecasts": true,
+  "all_models_use_identical_forecast_dates": true,
+  "independently_checked_labels": 840,
+  "prefix_only_model_refits": 24,
+  "null_recomputations": 4,
+  "post2017_brier_manual_checks": 16,
+  "unmatured_labels_retained_as_unknown": true
+}

@@ -1,0 +1,10 @@
+# Compatible installation. Exact historical environment: requirements.lock.txt.
+numpy>=2.0,<3
+pandas>=2.2,<4
+scipy>=1.13,<2
+scikit-learn>=1.5,<2
+matplotlib>=3.9,<4
+ripser==0.6.15
+persim==0.3.8
+pillow>=10,<13
+pytest>=8,<10

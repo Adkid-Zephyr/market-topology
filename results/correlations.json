@@ -1,0 +1,110 @@
+{
+  "50": {
+    "all": {
+      "l1": {
+        "l1": 1.0,
+        "annual_rms_vol_pct": 0.490383742183131,
+        "mean_correlation": -0.1681942010151816,
+        "scale_free_l1": 0.6422024785590855
+      },
+      "annual_rms_vol_pct": {
+        "l1": 0.490383742183131,
+        "annual_rms_vol_pct": 1.0,
+        "mean_correlation": 0.46770877999495025,
+        "scale_free_l1": -0.2867561268148898
+      },
+      "mean_correlation": {
+        "l1": -0.1681942010151816,
+        "annual_rms_vol_pct": 0.46770877999495025,
+        "mean_correlation": 1.0,
+        "scale_free_l1": -0.6124733554601827
+      },
+      "scale_free_l1": {
+        "l1": 0.6422024785590855,
+        "annual_rms_vol_pct": -0.2867561268148898,
+        "mean_correlation": -0.6124733554601827,
+        "scale_free_l1": 1.0
+      }
+    },
+    "post_paper": {
+      "l1": {
+        "l1": 1.0,
+        "annual_rms_vol_pct": 0.40190415407530394,
+        "mean_correlation": -0.15858448973213557,
+        "scale_free_l1": 0.6084501796392986
+      },
+      "annual_rms_vol_pct": {
+        "l1": 0.40190415407530394,
+        "annual_rms_vol_pct": 1.0,
+        "mean_correlation": 0.6014527363493096,
+        "scale_free_l1": -0.3900018208474897
+      },
+      "mean_correlation": {
+        "l1": -0.15858448973213557,
+        "annual_rms_vol_pct": 0.6014527363493096,
+        "mean_correlation": 1.0,
+        "scale_free_l1": -0.6986510508437739
+      },
+      "scale_free_l1": {
+        "l1": 0.6084501796392986,
+        "annual_rms_vol_pct": -0.3900018208474897,
+        "mean_correlation": -0.6986510508437739,
+        "scale_free_l1": 1.0
+      }
+    }
+  },
+  "100": {
+    "all": {
+      "l1": {
+        "l1": 1.0,
+        "annual_rms_vol_pct": 0.6747861439990092,
+        "mean_correlation": -0.12266708685028044,
+        "scale_free_l1": 0.4289902780175656
+      },
+      "annual_rms_vol_pct": {
+        "l1": 0.6747861439990092,
+        "annual_rms_vol_pct": 1.0,
+        "mean_correlation": 0.45716389448942474,
+        "scale_free_l1": -0.3153994091902994
+      },
+      "mean_correlation": {
+        "l1": -0.12266708685028044,
+        "annual_rms_vol_pct": 0.45716389448942474,
+        "mean_correlation": 1.0,
+        "scale_free_l1": -0.7415692827616626
+      },
+      "scale_free_l1": {
+        "l1": 0.4289902780175656,
+        "annual_rms_vol_pct": -0.3153994091902994,
+        "mean_correlation": -0.7415692827616626,
+        "scale_free_l1": 1.0
+      }
+    },
+    "post_paper": {
+      "l1": {
+        "l1": 1.0,
+        "annual_rms_vol_pct": 0.5616609967155919,
+        "mean_correlation": -0.0673092008350646,
+        "scale_free_l1": 0.4482516675043336
+      },
+      "annual_rms_vol_pct": {
+        "l1": 0.5616609967155919,
+        "annual_rms_vol_pct": 1.0,
+        "mean_correlation": 0.6004390639802146,
+        "scale_free_l1": -0.39193476616491246
+      },
+      "mean_correlation": {
+        "l1": -0.0673092008350646,
+        "annual_rms_vol_pct": 0.6004390639802146,
+        "mean_correlation": 1.0,
+        "scale_free_l1": -0.7600431612795271
+      },
+      "scale_free_l1": {
+        "l1": 0.4482516675043336,
+        "annual_rms_vol_pct": -0.39193476616491246,
+        "mean_correlation": -0.7600431612795271,
+        "scale_free_l1": 1.0
+      }
+    }
+  }
+}

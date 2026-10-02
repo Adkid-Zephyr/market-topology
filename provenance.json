@@ -1,0 +1,43 @@
+{
+  "snapshot_asof": "2026-09-28",
+  "exported_on": "2026-10-03",
+  "original_file_sha256": {
+    "topology.py": "6ede3f017a3637b6cabc5cdb5ee143d8b1f665ad6da2bc3d68ad59ab0ffcde8b",
+    "fetch_data.py": "b157e1c6036909181c1397378ac7c9e51b400d2893be363530f973ab9f96391d",
+    "spectral_sensitivity.py": "5d1637ed70eea649eea02aaaa19e0887ba27ed7ada901084c574556d8c41c72e",
+    "make_figures.py": "32e5498b6f193e0c064cbc1ac45405d7d6dc670b035135321b9efe691a3103c6",
+    "verify_outputs.py": "bdd8cf9862d8fead504c927b6efaaeedaefea2384a731e8ba228d883af619f46",
+    "improvement_experiment.py": "ab61239adba8d6ca1326483033b13dc58d09af3037f90d8bd285a0da9c51b1f3",
+    "improvement_figures.py": "deaa489264d7990c99977981c773c71878beec7f47c8b6844ba3a7776a844d71",
+    "verify_improvement.py": "c79907fdf737a13a6019c4f7ada7e46198158454ebc5c31f1b04d75c6fe82b90",
+    "topology_cv.py": "1df51d2aacf3931b984b4776a8e937eacd0ac4a767c22fb45a8edc023748a947",
+    "topology_cv_figures.py": "e93afd41d547eac59d8c0f9b4b1febdbde4428d97992c68bf324f471c6071490",
+    "verify_topology_cv.py": "f4b8ba1624759751b76612c4ca70951bd03f9f46fd7b73698857c9b7d4ef7ffb",
+    "topology_visuals.py": "f487ada3552db0cab9b7298e779ae17f0268df5d5cc724775199e64387ecfa97",
+    "test_topology.py": "1553d47e85dd3b0e207cd0936920bd5dc39eb05db1088cfd4a484211a8473d24",
+    "test_improvement.py": "124293ef9659793519e094b3aa72eb162c9450d4959201bcac4e5a8578769703",
+    "test_topology_cv.py": "6f6be4ac8e1ee8f17fd7a24691fe174818da57e94cb823e5a61f5bb6cc6eb9f4",
+    "requirements.lock.txt": "1e329b48660a834f0e094306cbdebda8db726682ed7e5c5b263a1cccbdd93a2b",
+    "PROTOCOL.md": "85f425e596b8f2bfbca68dbc9b0771025880e5d23f3e51f034b6c008816ab127",
+    "IMPROVEMENT_PROTOCOL.md": "b7029930882d08250b16ee5bc77d037c6d78af257cd11cfa1c66b54d32aeef8a",
+    "TOPOLOGY_CV_PROTOCOL.md": "35b8032ff8b1a2c4261c70484986fdc4077c1ce29ff6f7997a58c5894c670126",
+    "REPORT.md": "283a315b7486526d01564058fd249ec7243126e580b1ada0d69859c1952ed98e",
+    "IMPROVEMENT_REPORT.md": "461d56a201832049e19e82524b806302262bcd22eab7566e07d7153dc4552e3d",
+    "TOPOLOGY_CV_REPORT.md": "391786e0ca833d176b6949495528a8291b05e0d1135a281b95fa0428e87cd3ec",
+    "TOPOLOGY_LITERATURE.md": "261e5e8d7e33b986abddf219018855c4f2e533fcde1a06510692d0734ecfbc98",
+    "explainer/geometry.py": "1a3edde65c6f922c58a3e7199e74789f56e11baf2f64a3c50dec305789f4ec8d",
+    "explainer/test_geometry.py": "3ae11535f45b86866176ce6f8c3a28a7168cf38c78b5d27d47545b4b699fac2c",
+    "explainer/render.py": "184a9d831520cc5525b9d5686d6ffed641f2feee777d56a357832283b06673d1",
+    "explainer/README.md": "d77bb43b99db11a6f1113dbf33b6438099d1b5697795619a4792b61d8983436f",
+    "publication/figures.py": "f49016b4804e180b549c9bd92b68c8f16377f33a131dbebc97057517f200d282",
+    "publication/diagnostics.py": "a4ce2143275ad108d3b079106ea65fb16483f2178405a4786744459cb53f378a"
+  },
+  "scope": "Saved validation refers to original local runs. Current public-package tests are recorded separately.",
+  "raw_market_data_included": false,
+  "public_package_changes": [
+    "Licensed CSV preparation route",
+    "Provider-specific validation separated from CSV input checks",
+    "Compatible dependency specification and synthetic CI",
+    "Report cards and source documentation"
+  ]
+}

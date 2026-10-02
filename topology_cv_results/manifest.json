@@ -1,0 +1,8 @@
+{
+  "protocol_sha256": "35b8032ff8b1a2c4261c70484986fdc4077c1ce29ff6f7997a58c5894c670126",
+  "script_sha256": "1df51d2aacf3931b984b4776a8e937eacd0ac4a767c22fb45a8edc023748a947",
+  "elapsed_seconds": 22.822760820388794,
+  "seed": 20260928,
+  "n_feature_dates": 430,
+  "scope": "exploratory nested chronological validation, no final blind holdout"
+}

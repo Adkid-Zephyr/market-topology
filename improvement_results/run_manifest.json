@@ -1,0 +1,9 @@
+{
+  "protocol_sha256": "b7029930882d08250b16ee5bc77d037c6d78af257cd11cfa1c66b54d32aeef8a",
+  "script_sha256": "ab61239adba8d6ca1326483033b13dc58d09af3037f90d8bd285a0da9c51b1f3",
+  "seed": 20260928,
+  "null_replicates": 64,
+  "feature_rows": 430,
+  "elapsed_seconds": 35.50546216964722,
+  "evaluation": "historical walk-forward; not a blinded or prospective trial; stock tail loss only"
+}

@@ -1,0 +1,25 @@
+{
+  "data_asof": "2026-09-28",
+  "production_date": "2026-10-03",
+  "size": [
+    1200,
+    1600
+  ],
+  "new_predictions_run": false,
+  "status": "local_only_not_posted",
+  "sources": {
+    "results/snapshots.csv": "09763b7711b36196a4efe97004d2ab8a382cced13e297e057999391c9bfb0f1d",
+    "results/daily_w50.csv": "525a4e131ddc52844f76f337bd880259169f8fd2ff81563d9be4db3adc31ec30",
+    "results/daily_w100.csv": "3c60937875f4a001c8a3ef8462af8146788f271167fba16bce15b0032560cb39",
+    "topology_cv_results/metrics.csv": "aee26041d3d7238f0f8105d4eb68e2b013936c636585b2130ceecfde33da4291",
+    "explainer/certificates.json": "d55224e93094df3e7f05526bd7e50cececd9427d056a75c39bf872b705ca1f91",
+    "REPORT.md": "283a315b7486526d01564058fd249ec7243126e580b1ada0d69859c1952ed98e"
+  },
+  "reference": "https://arxiv.org/abs/1703.04385",
+  "pngs": [
+    "01_cover.png",
+    "02_percentiles.png",
+    "03_topology.png",
+    "04_results.png"
+  ]
+}

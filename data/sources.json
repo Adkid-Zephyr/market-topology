@@ -1,0 +1,72 @@
+{
+  "yahoo_SP500.json": {
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?period1=0&period2=1790640000&interval=1d",
+    "path": "data/raw/yahoo_SP500.json",
+    "retrieved_utc": "2026-09-28T20:55:27.399944+00:00",
+    "sha256": "0f762d74fb45f6cf189145f7bb4225e3f13b52b95c8c2295d2c9a4d14e926d38",
+    "bytes": 1546480
+  },
+  "yahoo_DJIA.json": {
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EDJI?period1=0&period2=1790640000&interval=1d",
+    "path": "data/raw/yahoo_DJIA.json",
+    "retrieved_utc": "2026-09-28T20:55:27.501093+00:00",
+    "sha256": "0472dc4c3000d2d6bc074bb04c8332f788613ccb99ab983f20369005e3f41a27",
+    "bytes": 849285
+  },
+  "yahoo_NASDAQ.json": {
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?period1=0&period2=1790640000&interval=1d",
+    "path": "data/raw/yahoo_NASDAQ.json",
+    "retrieved_utc": "2026-09-28T20:55:27.335911+00:00",
+    "sha256": "6a7b661a26e26b2f8cf061bacb44a1496c41ed08834b2e5505412594768f400b",
+    "bytes": 1451389
+  },
+  "yahoo_RUSSELL.json": {
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ERUT?period1=0&period2=1790640000&interval=1d",
+    "path": "data/raw/yahoo_RUSSELL.json",
+    "retrieved_utc": "2026-09-28T20:55:27.174637+00:00",
+    "sha256": "0819796a9e8117a31532033e4190829546fdad671638e49b0787c70bb3d527f3",
+    "bytes": 1075726
+  },
+  "yahoo_VIX.json": {
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EVIX?period1=0&period2=1790640000&interval=1d",
+    "path": "data/raw/yahoo_VIX.json",
+    "retrieved_utc": "2026-09-28T20:55:27.259975+00:00",
+    "sha256": "162da7c167261e7da0942e9a5472ed700a6481e4b93279c34e471e62555539a0",
+    "bytes": 970586
+  },
+  "gmu_DJId.csv": {
+    "url": "https://mason.gmu.edu/~jgentle/books/statfinbk/Data/DJId.csv",
+    "path": "data/raw/gmu_DJId.csv",
+    "retrieved_utc": "2026-09-28T20:55:27.932584+00:00",
+    "sha256": "820051fddd0f264a288e5df305235cbb147f37d40cc1c2b0f83860d0356d302d",
+    "bytes": 648606
+  },
+  "fred_SP500.csv": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=SP500&cosd=2026-01-01&coed=2026-09-28",
+    "path": "data/raw/fred_SP500.csv",
+    "retrieved_utc": "2026-09-28T20:55:27.582556+00:00",
+    "sha256": "e03ccea1ca8fae462cb8c8b0e5942e3ec510c7cf0127ac4af088ec933a97b310",
+    "bytes": 3603
+  },
+  "fred_DJIA.csv": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DJIA&cosd=2026-01-01&coed=2026-09-28",
+    "path": "data/raw/fred_DJIA.csv",
+    "retrieved_utc": "2026-09-28T20:55:27.719519+00:00",
+    "sha256": "a802852b3c1bf6bb48420006c2b67a1737b5a5accf869d67b43abcbf9f1412e6",
+    "bytes": 3786
+  },
+  "fred_NASDAQCOM.csv": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=NASDAQCOM&cosd=2026-01-01&coed=2026-09-28",
+    "path": "data/raw/fred_NASDAQCOM.csv",
+    "retrieved_utc": "2026-09-28T20:55:27.717731+00:00",
+    "sha256": "4f91ecf1b2c27e6d5c4e7df39112f77648d78471d8d7f1950ce1554c1e5942a0",
+    "bytes": 3963
+  },
+  "fred_VIXCLS.csv": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=VIXCLS&cosd=2026-01-01&coed=2026-09-28",
+    "path": "data/raw/fred_VIXCLS.csv",
+    "retrieved_utc": "2026-09-28T20:55:27.802528+00:00",
+    "sha256": "f66ebf475750d570144c54715d7ab9013f8fa6b837695d3c6bd6ac56485ce1f7",
+    "bytes": 3215
+  }
+}

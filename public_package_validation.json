@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-03",
+  "tests_passed": 14,
+  "scope": "Public-package tests, synthetic demonstration, saved result checks and report rendering; no new full historical training run.",
+  "synthetic_demo": "passed",
+  "saved_result_check": "passed",
+  "secret_personal_path_scan": "passed",
+  "raw_market_data_included": false,
+  "image_size": [
+    1200,
+    1600
+  ],
+  "github_ci": "pending"
+}

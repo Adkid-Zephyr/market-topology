@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "outer_blocks": 48,
+  "inner_folds": 126,
+  "mature_scored_outer_blocks": 47,
+  "persim_reference_checks": 12,
+  "prefix_feature_recomputations": 3,
+  "prefix_model_refits": 24,
+  "all_inner_and_outer_label_maturity_checks": true,
+  "all_model_selection_uses_inner_only": true,
+  "landscape_grid_outside_bars": 14,
+  "landscape_max_normalized_death": 8.107620651008308,
+  "caveat": "Five landscape layers / finite grid are approximations; complete finite diagrams used in diagram kernel."
+}

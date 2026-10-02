@@ -1,0 +1,223 @@
+{
+  "asof": "2026-09-28",
+  "series": {
+    "SP500": {
+      "first": "1970-01-02",
+      "last": "2026-09-28",
+      "rows": 14306,
+      "missing_adjclose": 0,
+      "max_close_adjusted_difference": 0.0
+    },
+    "DJIA": {
+      "first": "1992-01-02",
+      "last": "2026-09-28",
+      "rows": 8746,
+      "missing_adjclose": 0,
+      "max_close_adjusted_difference": 0.0
+    },
+    "NASDAQ": {
+      "first": "1971-02-05",
+      "last": "2026-09-28",
+      "rows": 14028,
+      "missing_adjclose": 0,
+      "max_close_adjusted_difference": 0.0
+    },
+    "RUSSELL": {
+      "first": "1987-09-10",
+      "last": "2026-09-28",
+      "rows": 9836,
+      "missing_adjclose": 0,
+      "max_close_adjusted_difference": 0.0
+    },
+    "VIX": {
+      "first": "1990-01-02",
+      "last": "2026-09-28",
+      "rows": 9585,
+      "missing_adjclose": 331,
+      "max_close_adjusted_difference": 0.0
+    }
+  },
+  "djia_overlap": {
+    "n": 6550,
+    "first": "1992-01-02",
+    "last": "2017-12-29",
+    "max_abs_diff": 5.000001692678779e-07,
+    "median_abs_diff": 3.125005605397746e-07,
+    "max_rel_diff": 1.410508109663258e-10
+  },
+  "djia_splice": {
+    "archive_last": "1991-12-31",
+    "yahoo_first": "1992-01-02"
+  },
+  "common_prices": {
+    "first": "1987-09-10",
+    "last": "2026-09-28",
+    "n": 9836
+  },
+  "common_returns": {
+    "first": "1987-09-11",
+    "last": "2026-09-28",
+    "n": 9835
+  },
+  "missing_after_common_start": {
+    "SP500": [],
+    "DJIA": [],
+    "NASDAQ": [],
+    "RUSSELL": []
+  },
+  "max_abs_daily_log_return_pct": {
+    "SP500": 22.89972860334535,
+    "DJIA": 25.631510963833293,
+    "NASDAQ": 13.25463760580634,
+    "RUSSELL": 15.399089181291092
+  },
+  "large_returns_abs_over_10pct": [
+    {
+      "date": "1987-10-19",
+      "index": "SP500",
+      "log_return_pct": -22.89972860334535
+    },
+    {
+      "date": "2008-10-13",
+      "index": "SP500",
+      "log_return_pct": 10.957196759533883
+    },
+    {
+      "date": "2008-10-28",
+      "index": "SP500",
+      "log_return_pct": 10.2457358473937
+    },
+    {
+      "date": "2020-03-16",
+      "index": "SP500",
+      "log_return_pct": -12.765219747281709
+    },
+    {
+      "date": "1987-10-19",
+      "index": "DJIA",
+      "log_return_pct": -25.631510963833293
+    },
+    {
+      "date": "2008-10-13",
+      "index": "DJIA",
+      "log_return_pct": 10.508346148145797
+    },
+    {
+      "date": "2008-10-28",
+      "index": "DJIA",
+      "log_return_pct": 10.325919043489584
+    },
+    {
+      "date": "2020-03-12",
+      "index": "DJIA",
+      "log_return_pct": -10.523218533124279
+    },
+    {
+      "date": "2020-03-16",
+      "index": "DJIA",
+      "log_return_pct": -13.841811904491408
+    },
+    {
+      "date": "2020-03-24",
+      "index": "DJIA",
+      "log_return_pct": 10.764327896465709
+    },
+    {
+      "date": "1987-10-19",
+      "index": "NASDAQ",
+      "log_return_pct": -12.043230631785384
+    },
+    {
+      "date": "2000-04-14",
+      "index": "NASDAQ",
+      "log_return_pct": -10.168410367409919
+    },
+    {
+      "date": "2001-01-03",
+      "index": "NASDAQ",
+      "log_return_pct": 13.25463760580634
+    },
+    {
+      "date": "2008-10-13",
+      "index": "NASDAQ",
+      "log_return_pct": 11.159441075066834
+    },
+    {
+      "date": "2020-03-16",
+      "index": "NASDAQ",
+      "log_return_pct": -13.149154641354954
+    },
+    {
+      "date": "2025-04-09",
+      "index": "NASDAQ",
+      "log_return_pct": 11.47844229625985
+    },
+    {
+      "date": "1987-10-19",
+      "index": "RUSSELL",
+      "log_return_pct": -13.388685863684469
+    },
+    {
+      "date": "2008-12-01",
+      "index": "RUSSELL",
+      "log_return_pct": -12.613726776481915
+    },
+    {
+      "date": "2020-03-12",
+      "index": "RUSSELL",
+      "log_return_pct": -11.857725934831809
+    },
+    {
+      "date": "2020-03-16",
+      "index": "RUSSELL",
+      "log_return_pct": -15.399089181291092
+    },
+    {
+      "date": "2020-03-18",
+      "index": "RUSSELL",
+      "log_return_pct": -11.009025850097132
+    }
+  ],
+  "fred_crosschecks": {
+    "SP500": {
+      "n": 184,
+      "last": "2026-09-25",
+      "max_abs_diff": 0.00023437500021827873,
+      "max_rel_diff": 3.5476478465611655e-08,
+      "latest_pair": {
+        "yahoo": 7743.41015625,
+        "fred": 7743.41
+      }
+    },
+    "DJIA": {
+      "n": 184,
+      "last": "2026-09-25",
+      "max_abs_diff": 0.0018750000017462298,
+      "max_rel_diff": 4.031853148826193e-08,
+      "latest_pair": {
+        "yahoo": 51828.62109375,
+        "fred": 51828.62
+      }
+    },
+    "NASDAQ": {
+      "n": 184,
+      "last": "2026-09-25",
+      "max_abs_diff": 0.010937499999272404,
+      "max_rel_diff": 4.417498905256552e-07,
+      "latest_pair": {
+        "yahoo": 27068.720703125,
+        "fred": 27068.72
+      }
+    },
+    "VIX": {
+      "n": 183,
+      "last": "2026-09-22",
+      "max_abs_diff": 2.610000839233397,
+      "max_rel_diff": 0.14695950671359215,
+      "latest_pair": {
+        "yahoo": 14.210000038146973,
+        "fred": 14.21
+      }
+    }
+  }
+}
